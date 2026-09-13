@@ -184,7 +184,7 @@
 
 - en: "Cheap"
   mm: "စျေးနည်းသော"
-  img: "Cheap.jpg"
+  img: "cheap.jpg"
   type: "Adjective"
   unit: "Unit 1"
   topic: "Adjective"
@@ -204,7 +204,7 @@
   type: "Adjective"
   unit: "Unit 1"
   topic: "Adjective"
-  voice: "Big-mp3.mp3"
+  voice: "big.mp3"
 
 - en: "Small"
   mm: "သေးငယ်သော"
@@ -212,7 +212,7 @@
   type: "Adjective"
   unit: "Unit 1"
   topic: "Adjective"
-  voice: "Small-mp3.mp3"
+  voice: "s-mp3.mp3"
 
 - en: "Old"
   mm: "အိုသော,ဟောင်းသော"
