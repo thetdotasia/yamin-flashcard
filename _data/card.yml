@@ -36,7 +36,7 @@
   type: "Noun"
   unit: "Unit 1"
   topic: "Family"
-  voice: "S-mp3.mp3"
+  voice: "Sister-mp3.mp3"
 
 - en: "Father"
   mm: "အဖေ"
@@ -52,7 +52,7 @@
   type: "Noun"
   unit: "Unit 1"
   topic: "Family"
-  voice: "A-mp3.mp3"
+  voice: "Aunt-mp3.mp3"
 
 - en: "Uncle"
   mm: "ဦးလေး"
@@ -212,7 +212,7 @@
   type: "Adjective"
   unit: "Unit 1"
   topic: "Adjective"
-  voice: "s-mp3.mp3"
+  voice: "Small-mp3.mp3"
 
 - en: "Old"
   mm: "အိုသော, ဟောင်းသော"
@@ -348,7 +348,7 @@
   type: "Noun"
   unit: "Unit 1"
   topic: "Concept"
-  voice: "Attendant-mp3.mp3"
+  voice: "A-mp3.mp3"
 
 - en: "Introduce"
   mm: "မိတ်ဆက်သည်"
