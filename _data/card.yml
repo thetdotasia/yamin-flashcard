@@ -215,7 +215,7 @@
   voice: "s-mp3.mp3"
 
 - en: "Old"
-  mm: "အိုသော,ဟောင်းသော"
+  mm: "အိုသော, ဟောင်းသော"
   img: "Old.jpg"
   type: "Adjective"
   unit: "Unit 1"
@@ -271,7 +271,7 @@
   voice: "Office-mp3.mp3"
 
 - en: "Blog"
-  mm: "အွန်လိုင်းတွင်စာရေးသားခြင်း"
+  mm: "အွန်လိုင်းတွင် စာရေးသားခြင်း"
   img: "Blog.jpg"
   type: "Noun"
   unit: "Unit 1"
@@ -279,7 +279,7 @@
   voice: "Blog-mp3.mp3"
 
 - en: "Topic"
-  mm: "အကြောင်းအရာ,ခေါင်းစဉ်"
+  mm: "အကြောင်းအရာ, ခေါင်းစဉ်"
   img: "Topic.jpg"
   type: "Noun"
   unit: "Unit 1"
