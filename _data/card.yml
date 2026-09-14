@@ -1,6 +1,6 @@
 - en: "Grandmother"
   mm: "အဘွား"
-  img: "GM.jpg"
+  img: "grandmother-image.jpg"
   type: "noun"
   unit: "Unit 1"
   topic: "Family"
@@ -8,7 +8,7 @@
 
 - en: "Grandfather"
   mm: "အဘိုး"
-  img: "Gf.jpg"
+  img: "grandfather-image.jpg"
   type: "noun"
   unit: "Unit 1"
   topic: "Family"
@@ -16,7 +16,7 @@
 
 - en: "Mother"
   mm: "အမေ"
-  img: "M.jpg"
+  img: "mother-image.jpg"
   type: "noun"
   unit: "Unit 1"
   topic: "Family"
@@ -24,7 +24,7 @@
 
 - en: "Brother"
   mm: "အစ်ကို/ညီ/မောင်"
-  img: "B.jpg"
+  img: "brother-image.jpg"
   type: "noun"
   unit: "Unit 1"
   topic: "Family"
@@ -32,7 +32,7 @@
 
 - en: "Sister"
   mm: "အစ်မ/ညီမ"
-  img: "S.jpg"
+  img: "sister-image.jpg"
   type: "Noun"
   unit: "Unit 1"
   topic: "Family"
@@ -40,7 +40,7 @@
 
 - en: "Father"
   mm: "အဖေ"
-  img: "F.jpg"
+  img: "father-image.jpg"
   type: "Noun"
   unit: "Unit 1"
   topic: "Family"
@@ -64,7 +64,7 @@
 
 - en: "Daughter"
   mm: "သမီး"
-  img: "D.jpg"
+  img: "daughter-image.jpg"
   type: "Noun"
   unit: "Unit 1"
   topic: "Family"
@@ -72,7 +72,7 @@
 
 - en: "Son"
   mm: "သား"
-  img: "Son.jpg"
+  img: "son-image.jpg"
   type: "Noun"
   unit: "Unit 1"
   topic: "Family"
@@ -80,7 +80,7 @@
 
 - en: "Siblings"
   mm: "မွေးချင်းမောင်နှမများ"
-  img: "Siblings.jpg"
+  img: "siblings-image.jpg"
   type: "Noun"
   unit: "Unit 1"
   topic: "Family"
@@ -88,7 +88,7 @@
 
 - en: "Cousins"
   mm: "ဝမ်းကွဲဆွေမျိုးများ"
-  img: "C.jpg"
+  img: "cousins-image.jpg"
   type: "Noun"
   unit: "Unit 1"
   topic: "Family"
@@ -96,7 +96,7 @@
   
 - en: "Wife"
   mm: "ဇနီး/မယား"
-  img: "W.jpg"
+  img: "wife-image.jpg"
   type: "Noun"
   unit: "Unit 1"
   topic: "Family"
@@ -104,7 +104,7 @@
   
 - en: "Husband"
   mm: "ခင်ပွန်း/ယောကျာ်း"
-  img: "H.jpg"
+  img: "husband-image.jpg"
   type: "Noun"
   unit: "Unit 1"
   topic: "Family"
@@ -112,7 +112,7 @@
   
 - en: "Parents"
   mm: "မိဘများ"
-  img: "H&W.jpg"
+  img: "parents-image.jpg"
   type: "Noun"
   unit: "Unit 1"
   topic: "Family"
@@ -120,7 +120,7 @@
    
 - en: "Nephew"
   mm: "တူ"
-  img: "Nephew.jpg"
+  img: "nephew-image.jpg"
   type: "Noun"
   unit: "Unit 1"
   topic: "Family"
@@ -128,7 +128,7 @@
 
 - en: "Niece"
   mm: "တူမ"
-  img: "Niece.jpg"
+  img: "niece-image.jpg"
   type: "Noun"
   unit: "Unit 1"
   topic: "Family"
@@ -136,7 +136,7 @@
    
 - en: "Nice"
   mm: "နှစ်သက်ဖွယ်ကောင်းသော"
-  img: "Nice.jpg"
+  img: "nice-image.jpg"
   type: "Adjective"
   unit: "Unit 1"
   topic: "Adjective"
@@ -144,7 +144,7 @@
 
 - en: "Horrible"
   mm: "မနှစ်မြို့ဖွယ်ဖြစ်သော"
-  img: "Horrible.jpg"
+  img: "horrible-image.jpg"
   type: "Adjective"
   unit: "Unit 1"
   topic: "Adjective"
@@ -152,7 +152,7 @@
   
 - en: "Hot"
   mm: "ပူသော"
-  img: "Hot.jpg"
+  img: "hot-image.jpg"
   type: "Adjective"
   unit: "Unit 1"
   topic: "Adjective"
@@ -160,7 +160,7 @@
 
 - en: "Cold"
   mm: "အေးသော"
-  img: "Cold.jpg"
+  img: "cold-image.jpg"
   type: "Adjective"
   unit: "Unit 1"
   topic: "Adjective"
@@ -168,7 +168,7 @@
 
 - en: "Fast"
   mm: "မြန်ဆန်သော"
-  img: "Fast.jpg"
+  img: "fast-image.jpg"
   type: "Adjective"
   unit: "Unit 1"
   topic: "Adjective"
@@ -176,7 +176,7 @@
 
 - en: "Slow"
   mm: "နှေးကွေးသော"
-  img: "Slow.jpg"
+  img: "slow-image.jpg"
   type: "Adjective"
   unit: "Unit 1"
   topic: "Adjective"
@@ -184,7 +184,7 @@
 
 - en: "Cheap"
   mm: "စျေးနည်းသော"
-  img: "cheap.jpg"
+  img: "cheap-image.jpg"
   type: "Adjective"
   unit: "Unit 1"
   topic: "Adjective"
@@ -192,7 +192,7 @@
 
 - en: "Expensive"
   mm: "စျေးကြီးသော"
-  img: "Expensive.jpg"
+  img: "expensive-image.jpg"
   type: "Adjective"
   unit: "Unit 1"
   topic: "Adjective"
@@ -200,7 +200,7 @@
 
 - en: "Big"
   mm: "ကြီးမားသော"
-  img: "Big.jpg"
+  img: "big-image.jpg"
   type: "Adjective"
   unit: "Unit 1"
   topic: "Adjective"
@@ -208,7 +208,7 @@
 
 - en: "Small"
   mm: "သေးငယ်သော"
-  img: "Small.jpg"
+  img: "small-image.jpg"
   type: "Adjective"
   unit: "Unit 1"
   topic: "Adjective"
@@ -216,7 +216,7 @@
 
 - en: "Old"
   mm: "အိုသော, ဟောင်းသော"
-  img: "Old.jpg"
+  img: "old-image.jpg"
   type: "Adjective"
   unit: "Unit 1"
   topic: "Adjective"
@@ -224,7 +224,7 @@
 
 - en: "Young"
   mm: "ငယ်ရွယ်သော"
-  img: "Young.jpg"
+  img: "young-image.jpg"
   type: "Adjective"
   unit: "Unit 1"
   topic: "Adjective"
@@ -232,7 +232,7 @@
 
 - en: "Good"
   mm: "ကောင်းသော"
-  img: "Good.jpg"
+  img: "good-image.jpg"
   type: "Adjective"
   unit: "Unit 1"
   topic: "Adjective"
@@ -240,7 +240,7 @@
 
 - en: "Bad"
   mm: "ဆိုးသော"
-  img: "Bad.jpg"
+  img: "bad-image.jpg"
   type: "Adjective"
   unit: "Unit 1"
   topic: "Adjective"
@@ -248,7 +248,7 @@
 
 - en: "Easy"
   mm: "လွယ်ကူသော"
-  img: "Easy.jpg"
+  img: "easy-image.jpg"
   type: "Adjective"
   unit: "Unit 1"
   topic: "Adjective"
@@ -256,7 +256,7 @@
 
 - en: "Difficult"
   mm: "ခက်ခဲသော"
-  img: "Difficult.jpg"
+  img: "difficult-image.jpg"
   type: "Adjective"
   unit: "Unit 1"
   topic: "Adjective"
@@ -264,7 +264,7 @@
   
 - en: "Office"
   mm: "ရုံးခန်း"
-  img: "Office.jpg"
+  img: "office-image.jpg"
   type: "Noun"
   unit: "Unit 1"
   topic: "Concept"
@@ -272,7 +272,7 @@
 
 - en: "Blog"
   mm: "အွန်လိုင်းတွင် စာရေးသားခြင်း"
-  img: "Blog.jpg"
+  img: "blog-image.jpg"
   type: "Noun"
   unit: "Unit 1"
   topic: "Concept"
@@ -280,7 +280,7 @@
 
 - en: "Topic"
   mm: "အကြောင်းအရာ, ခေါင်းစဉ်"
-  img: "Topic.jpg"
+  img: "topic-image.jpg"
   type: "Noun"
   unit: "Unit 1"
   topic: "Concept"
@@ -288,7 +288,7 @@
 
 - en: "Ticket"
   mm: "လက်မှတ်"
-  img: "Ticket.jpg"
+  img: "ticket-image.jpg"
   type: "Noun"
   unit: "Unit 1"
   topic: "Concept"
@@ -296,7 +296,7 @@
   
 - en: "Weekend"
   mm: "ပိတ်ရက်"
-  img: "Weekend.jpg"
+  img: "weekend-image.jpg"
   type: "Noun"
   unit: "Unit 1"
   topic: "Concept"
@@ -304,7 +304,7 @@
   
 - en: "Conversation"
   mm: "အပြန်အလှန်စကားပြောခြင်း"
-  img: "Conversation.jpg"
+  img: "conversation-image.jpg"
   type: "Noun"
   unit: "Unit 1"
   topic: "Concept"
@@ -312,7 +312,7 @@
 
 - en: "Weather"
   mm: "ရာသီဥတု"
-  img: "Weather.jpg"
+  img: "weather-image.jpg"
   type: "Noun"
   unit: "Unit 1"
   topic: "Concept"
@@ -320,7 +320,7 @@
 
 - en: "Teacher"
   mm: "ဆရာ/ဆရာမ"
-  img: "Teacher.jpg"
+  img: "teacher-image.jpg"
   type: "Noun"
   unit: "Unit 1"
   topic: "Concept"
@@ -328,7 +328,7 @@
 
 - en: "Student"
   mm: "ကျောင်းသား/သူ"
-  img: "Students.jpg"
+  img: "student-image.jpg"
   type: "Noun"
   unit: "Unit 1"
   topic: "Concept"
@@ -336,7 +336,7 @@
 
 - en: "Lawyer"
   mm: "ရှေ့နေ"
-  img: "Lawyer.jpg"
+  img: "lawyer-image.jpg"
   type: "Noun"
   unit: "Unit 1"
   topic: "Concept"
@@ -344,7 +344,7 @@
 
 - en: "Attendant"
   mm: "အကူ"
-  img: "Attendant.jpg"
+  img: "attendant-image.jpg"
   type: "Noun"
   unit: "Unit 1"
   topic: "Concept"
@@ -352,7 +352,7 @@
 
 - en: "Introduce"
   mm: "မိတ်ဆက်သည်"
-  img: "Introduce.jpg"
+  img: "introduce-image.jpg"
   type: "Verb"
   unit: "Unit 1"
   topic: "Action"
@@ -360,7 +360,7 @@
 
 - en: "Meet"
   mm: "တွေ့ဆုံသည်"
-  img: "Meet.jpg"
+  img: "meet-image.jpg"
   type: "Verb"
   unit: "Unit 1"
   topic: "Action"
@@ -368,7 +368,7 @@
 
 - en: "Read"
   mm: "စာဖတ်သည်"
-  img: "Read.jpg"
+  img: "read-image.jpg"
   type: "Verb"
   unit: "Unit 1"
   topic: "Action"
@@ -376,7 +376,7 @@
 
 - en: "Spell"
   mm: "စာလုံးပေါင်းသည်"
-  img: "Spell.jpg"
+  img: "spell-image.jpg"
   type: "Verb"
   unit: "Unit 1"
   topic: "Action"
@@ -384,7 +384,7 @@
 
 - en: "Listen"
   mm: "နားထောင်သည်"
-  img: "Listen.jpg"
+  img: "listen-image.jpg"
   type: "Verb"
   unit: "Unit 1"
   topic: "Action"
@@ -392,7 +392,7 @@
 
 - en: "Practice"
   mm: "လေ့ကျင့်သည်"
-  img: "Practice.jpg"
+  img: "practice-image.jpg"
   type: "Verb"
   unit: "Unit 1"
   topic: "Action"
@@ -400,7 +400,7 @@
 
 - en: "Tick"
   mm: "အမှတ်အသားလုပ်သည်"
-  img: "Tick.jpg"
+  img: "tick-image.jpg"
   type: "Verb"
   unit: "Unit 1"
   topic: "Action"
