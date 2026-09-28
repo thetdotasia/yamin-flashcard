@@ -1567,7 +1567,7 @@
   voice: "bus stop-mp3.mp3"
 
 - en: "Parking"
-  mm: "ကားပါ"
+  mm: "ကားပါကင်"
   img: "parking-image.jpg"
   type: "Noun"
   unit: "Unit 4"
@@ -1623,7 +1623,7 @@
   voice: "town-mp3.mp3"
 
 - en: "Cathedral"
-  mm: "ဘုရားရှိခိုးကျောင်း"
+  mm: "ဘုရားရှိခိုးကျောင်းကြီး"
   img: "cathedral-image.jpg"
   type: "Noun"
   unit: "Unit 4"
@@ -1679,7 +1679,7 @@
   voice: "shower-mp3.mp3"
 
 - en: "Repeat"
-  mm: "ရေချိုးသည်"
+  mm: "ထပ်ခါတလဲလဲလုပ်သည်"
   img: "repeat-image.jpg"
   type: "Verb"
   unit: "Unit 4"
@@ -1903,7 +1903,7 @@
   voice: "fabulous-mp3.mp3"
 
 - en: "This"
-  mm: "ဒီအရာ(အနည်း)"
+  mm: "ဒီအရာ"
   img: "this-image.jpg"
   type: "Noun"
   unit: "Unit 4"
@@ -1911,7 +1911,7 @@
   voice: "this-mp3.mp3"
 
 - en: "That"
-  mm: "ဟိုအရာ(အနည်း)"
+  mm: "ဟိုအရာ"
   img: "this-image.jpg"
   type: "Noun"
   unit: "Unit 4"
@@ -1919,7 +1919,7 @@
   voice: "this-mp3.mp3"
 
 - en: "These"
-  mm: "ဒီအရာ(အများ)"
+  mm: "ဒီအရာများ"
   img: "these-image.jpg"
   type: "Noun"
   unit: "Unit 4"
@@ -1927,7 +1927,7 @@
   voice: "these-mp3.mp3"
 
 - en: "Those"
-  mm: "ဟိုအရာ(အများ)"
+  mm: "ဟိုအရာများ"
   img: "those-image.jpg"
   type: "Noun"
   unit: "Unit 4"
