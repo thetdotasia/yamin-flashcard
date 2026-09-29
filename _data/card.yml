@@ -1197,14 +1197,6 @@
   unit: "Unit 4"
   topic: "Home"
   voice: "balcony-mp3.mp3"
-
-- en: "Toilet"
-  mm: "အိမ်သာ"
-  img: "toilet-image.jpg"
-  type: "Noun"
-  unit: "Unit 4"
-  topic: "Home"
-  voice: "toilet-mp3.mp3"
   
 - en: "Fridge"
   mm: "ရေခဲသေတ္တာ"
@@ -1656,7 +1648,7 @@
 
 - en: "Color"
   mm: "အရောင်"
-  img: "colour-image.jpg"
+  img: "color-image.jpg"
   type: "Noun"
   unit: "Unit 4"
   topic: "Home"
